@@ -1,4 +1,0 @@
-[submodule "tools/try_git_build_tools"]
-	path = tools/try_git_build_tools
-	url = https://github.com/jggiardina/try_git_build_tools.git
-	branch = master
